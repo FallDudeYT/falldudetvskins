@@ -3,6 +3,5 @@
   "author": "oreyre",
   "description": "It's almost scary how good i am!",
   "file": "accessory_whiskers",
-  "type": "costume",
-  "keepBase": false
+  "type": "accessory"
 }
