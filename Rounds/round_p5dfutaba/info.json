@@ -1,5 +1,6 @@
 ﻿{
   "displayName": "p5dfutaba",
+  "description": "Escape Futaba's ruined palace and race to the finish line",
   "file": "round_p5dfutaba",
   "prefab": "round_p5dfutaba",
   "skybox": "New Material 1",
